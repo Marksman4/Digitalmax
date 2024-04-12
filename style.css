@@ -114,6 +114,7 @@ input{
     padding: 20px;
     width: 85%;
     margin: 0px auto;
+    box-shadow: 1px 1px 20px white, -1px -1px 20px white ;
 }
 
 .about h3{
@@ -143,7 +144,7 @@ input{
     color: #fff;
     padding: 20px;
     background-color: #161515;
-    box-shadow: 1px 1px 20px white, -1px -1px 20px white ;
+    
 
 }
 .services h2:hover{
